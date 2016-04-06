@@ -71,6 +71,13 @@ text). So actually this module is just a wrapper for
 DateTime::Format::Alami::ID.
 
 
+=head1 METHODS
+
+=head2 new
+
+=head2 extract($text)
+
+
 =head1 SEE ALSO
 
 L<Date::Extract>, L<DateTime::Format::Alami>
