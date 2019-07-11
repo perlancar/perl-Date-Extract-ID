@@ -1,8 +1,8 @@
-0.002   2016-04-08 (PERLANCAR)
+0.002   2016-04-08  Released-By: PERLANCAR
 
 	- Bump prereq version of DateTime::Format::Alami::ID [RT#113604].
 
 
-0.001   2016-04-06 (PERLANCAR)
+0.001   2016-04-06  Released-By: PERLANCAR
 
          - First release.
